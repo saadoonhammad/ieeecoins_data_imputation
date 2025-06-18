@@ -1,4 +1,4 @@
-# IEEECOINS_Data_Imputation
+# IEEE_COINS_Data_Imputation
 This repository contains  notebooks related to experiments performed for data imputation in time series data for IEEE COINS article submission.
 
 1. IEEE_COINS_Visualization.ipynb contains the code for the visualizations used in the article.
