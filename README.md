@@ -3,6 +3,7 @@ This repository contains  notebooks related to experiments performed for data im
 
 1. IEEE_COINS_Visualization.ipynb contains the code for the visualizations used in the article.
 2. IEEE_COINS_Spline.ipynb contains code snippets for Spline method employed to impute missing data gaps for the experiments.
+3. IEEE_COINS_XGBoost.ipynb contains code snippets of XGBoost method employed in the experiments.
 
 
 
